@@ -1,0 +1,3 @@
+# Ignoring database file
+
+*.sqlite3
